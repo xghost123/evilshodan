@@ -28,7 +28,7 @@ username:password
 username:password
 '''
 Additionally, you have the option to perform a brute-force attack on a single account.
-
+Get proxies from THESPEEDX : https://github.com/TheSpeedX/PROXY-List
 ## Disclaimer
 
 This script was developed to demonstrate how brute-force attacks operate.
